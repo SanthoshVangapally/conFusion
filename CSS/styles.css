@@ -29,3 +29,15 @@
     margin: 0px;
     color: #0f0f0f;
 }
+
+.u{
+    text-decoration: none;
+}
+
+.content-s{
+    padding:70px 0px 70px 0px;
+}
+
+.footer-c{
+    background-color: rgb(227, 219, 241);
+}
